@@ -35,12 +35,12 @@ The app processes the image by:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/shailendrasingh-cyber/image-to-pencil-sketch.git
+    git clone https://github.com/shailendrasingh-cyber/Image-to-pencil-sketch-converter
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd image-to-pencil-sketch
+    cd Image-to-pencil-sketch-converter
     ```
 
 3. Install the required dependencies:
